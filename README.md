@@ -4,7 +4,7 @@ A modern and responsive React-based authentication UI project built using Vite a
 
 ## Live Demo
 
-Add your Netlify/Vercel deployed link here.
+https://shimmering-pithivier-db9af8.netlify.app/
 
 ## Features
 
@@ -84,9 +84,3 @@ This project can be deployed easily on:
 
 Nitesh Kumar
 
-GitHub:
-:contentReference[oaicite:0]{index=0}
-
-## Repository
-
-:contentReference[oaicite:1]{index=1}
