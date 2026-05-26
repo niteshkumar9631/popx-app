@@ -1,0 +1,98 @@
+.account-screen {
+  background: #f7f8f9;
+}
+
+.account-header {
+  padding: 48px 24px 16px;
+}
+
+.account-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.account-divider {
+  width: 100%;
+  height: 1px;
+  background: #e0e0e0;
+}
+
+.account-divider.dashed {
+  border: none;
+  border-top: 1.5px dashed #d0d0d0;
+  background: transparent;
+  margin-top: 60px;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 24px 24px;
+}
+
+.avatar-wrap {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.avatar-img {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #ddd;
+}
+
+.avatar-placeholder {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #c9b8f4, #6c25ff);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: white;
+}
+
+.camera-btn {
+  position: absolute;
+  bottom: 0;
+  right: -2px;
+  width: 26px;
+  height: 26px;
+  background: #6c25ff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  cursor: pointer;
+  border: 2px solid white;
+}
+
+.profile-info {}
+
+.profile-name {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 4px;
+}
+
+.profile-email {
+  font-size: 13px;
+  color: #888;
+}
+
+.account-body {
+  padding: 0 24px 24px;
+}
+
+.account-bio {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+}
