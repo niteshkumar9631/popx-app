@@ -1,16 +1,92 @@
-# React + Vite
+# PopX App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive React-based authentication UI project built using Vite and React Router.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Add your Netlify/Vercel deployed link here.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern UI Design
+- Responsive Layout
+- Login Page
+- Registration Page
+- React Router Navigation
+- Clean Component Structure
+- Fast Performance using Vite
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- React Router DOM
+- CSS3
+
+## Folder Structure
+
+```bash
+src/
+ ├── components/
+ ├── pages/
+ ├── assets/
+ ├── App.jsx
+ └── main.jsx
+```
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/niteshkumar9631/popx-app.git
+```
+
+Move into the project directory:
+
+```bash
+cd popx-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Deployment
+
+This project can be deployed easily on:
+
+- Netlify
+- Vercel
+
+## Screens
+
+- Landing Page
+- Login Page
+- Register Page
+- Account Settings
+
+## Author
+
+Nitesh Kumar
+
+GitHub:
+:contentReference[oaicite:0]{index=0}
+
+## Repository
+
+:contentReference[oaicite:1]{index=1}
